@@ -12,9 +12,9 @@ h1{
 	text-align: center;
 }
 img{
-	width: 200;
-	align-items: center;
-	margin: 20px;
+	width: 200px;
+	text-align: center;
+	margin: 20px 0px;
 }
 p{
 	color: black;
