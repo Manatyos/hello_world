@@ -3,6 +3,7 @@ body{
 	flex: warp;
 	font-family: Ariel, sans-serif;
 	background: lightgray;
+	margin: 20px;
 }
 h1{
 	color: black;
