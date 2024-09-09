@@ -13,6 +13,7 @@ h1{
 }
 img{
 	width: 200;
+	align-items: center;
 	margin: 20px 0px;
 }
 p{
