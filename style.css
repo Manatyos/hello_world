@@ -1,7 +1,13 @@
+@media{
+body{
+	background: lightgray;
+}
+
 h1{
 	color: black;
 }
 p{
 	color: black;
 	text-align: center;
+}
 }
