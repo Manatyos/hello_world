@@ -13,11 +13,15 @@ h1{
 }
 img{
 	width: 200px;
-	text-align: center;
 	margin: 20px 0px;
 }
 p{
 	color: black;
 	text-align: center;
+}
+li{
+	color: blue;
+	padding: 10px;
+	text-align: left;
 }
 }
