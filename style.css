@@ -1,10 +1,14 @@
 @media{
 body{
+	flex: warp;
+	font-family: Ariel, sans-serif;
 	background: lightgray;
 }
-
 h1{
 	color: black;
+}
+img{
+	
 }
 p{
 	color: black;
